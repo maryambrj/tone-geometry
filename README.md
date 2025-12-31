@@ -1,10 +1,12 @@
+<a href="https://colab.research.google.com/drive/1tYrc5JU_U-iFhskL6H70OC2m7Ygk6PVQ#scrollTo=6BTPTGFl7k70" target="_blank" rel="noopener">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+</a>
+
 # The Geometry of Tone: Disentangling Refusal and Verbosity
 
 This repo contains a small applied interpretability project exploring whether **refusal (safety posture)** and **verbosity (style/length)** are geometrically entangled in the residual stream of **gemma-2-2b-it**.
 
 **Core idea:** refusal often *looks* like short, stern responses. I test whether the model internally conflates "refusal" with "conciseness" by extracting steering directions and measuring their interaction.
-
-**Colab notebook** [link here](https://colab.research.google.com/drive/1tYrc5JU_U-iFhskL6H70OC2m7Ygk6PVQ#scrollTo=6BTPTGFl7k70)
 
 ## Key takeaways
 
